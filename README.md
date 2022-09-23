@@ -1,33 +1,15 @@
-> ملاحظة: يجب تعبئة هذا الملف بمعلومات المشروع، يمكنك اختيار اللغة. تأكد من مسح اللغة الأخرى والتعليقات الجانبية
-> ⬇️ تعبئة معلومات المشروع بالعربية  
-<div dir="rtl">
 
-### اسم الطالب
-
-
-### اسم المشروع
-
-
-# شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
-
-
-# الأعمال المستقبلية
-
-
-</div>
-
-> Fill out project information in English ⬇️
 ### Student Name
-
+Abdallah Ahmad Alshemeri
 
 ### Project Name
+mySteak
 
 # Idea
-Problem and solutions if found 
+Steak is a favororite food among many people. My app is a restuarant that provides and sells raw or cooked steaks to customers and either delivers it to their doorstep or they can come pick it up. 
 
 
 # Future Work 
-
+We shall see what the future holds but i have discovered a passion in helping, making and contributing to a project or app through UniCode and from here i can say i am starting a future career in programming in all of its aspects. 
 
 
