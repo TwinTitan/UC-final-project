@@ -6,7 +6,7 @@ Abdallah Ahmad Alshemeri
 mySteak
 
 # Idea
-Steak is a favororite food among many people. My app is a restuarant that provides and sells raw or cooked steaks to customers and either delivers it to their doorstep or they can come pick it up. 
+Steak is a favororite food among many people. My app is a restuarant that provides and sells raw steaks to customers and delivers it to their doorstep.
 
 
 # Future Work 
